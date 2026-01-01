@@ -1,8 +1,8 @@
 import React from 'react'
-import Imageinsight from '../Component/insight/imageinsight'
-import { featured, imageinsight } from '../data'
-import Featured from '../Component/insight/Featured'
-import LookingUpdates from '../Component/insight/LookingUpdates'
+import Imageinsight from '../Component/insight/Imageinsight.jsx'
+import { featured, imageinsight } from '../data.js'
+import Featured from '../Component/insight/Featured.jsx'
+import LookingUpdates from '../Component/insight/LookingUpdates.jsx'
 
 
 const Insight = () => {
